@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "MyIpAddress: Show ip address",
+        "command": "show_ip_address",
+    },
+]

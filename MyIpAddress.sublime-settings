@@ -1,0 +1,5 @@
+{
+    "ip_lookup_service_domain": "ifconfig.co",
+    "curl_command": "curl",
+    "show_panel_on_build": true,
+}

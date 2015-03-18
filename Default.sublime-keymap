@@ -1,0 +1,6 @@
+[
+    {
+      "keys": ["ctrl+alt+i"],
+      "command": "show_my_ip_address"
+    }
+]
